@@ -85,21 +85,21 @@ Most successful players in each sport.
 
 .
 
-├── app.py
-├── helper.py
-├── preprocessor.py
-├── requirements.txt
-├── datasets
-│   ├── athlete_events.csv
-│   └── noc_regions.csv
+app.py
+helper.py
+preprocessor.py
+requirements.txt
+datasets
+│     athlete_events.csv
+│     noc_regions.csv
 └── images
-    ├── home.png
-    ├── medal_tally.png
-    ├── heatmap.png
-    ├── age_distribution.png
-    ├── height_weight.png
-    ├── country_trend.png
-    └── more screenshots...
+       home.png
+       medal_tally.png
+       heatmap.png
+       age_distribution.png
+       height_weight.png
+       country_trend.png
+       more screenshots...
 
 
 ### 🎯 Purpose of This Project

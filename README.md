@@ -76,6 +76,7 @@ Understand participation and medal growth.
 
 ### 📂  Project Structure
 
+```text
 .
 ├── app.py
 ├── helper.py

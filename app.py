@@ -201,6 +201,6 @@ if user_menu == "Athlete wise Analysis":
 
     final = helper.men_vs_womenv(df)
     fig = px.line(final,x="Year",y=["Male","Female"])
-    fig.update_layout(autosize=False,width=1000,height=600)
+    fig.update_layout(autosize=False,width=800,height=500)
 
     st.plotly_chart(fig)

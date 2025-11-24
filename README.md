@@ -10,9 +10,8 @@ This project explores how the Olympics evolved from 1896 to 2016 using interacti
 
 ### 📊 Demo
 
-Add your deployed link here (Render/Streamlit Cloud):
 👉 Live Demo
-
+[https://olympics-analysis-q66y.onrender.com]
 
 ### 📸  Project Preview
 ### 📊  Home Dashboard

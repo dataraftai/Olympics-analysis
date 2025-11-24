@@ -76,7 +76,7 @@ Understand participation and medal growth.
 
 ### 📂  Project Structure
 
-``text
+````text
 .
 ├── app.py
 ├── helper.py
@@ -93,8 +93,8 @@ Understand participation and medal growth.
     ├── height_weight.png
     ├── country_trend.png
     └── more screenshots...
-
- ###  🎯 Purpose of This Project
+````
+### 🎯 Purpose of This Project
 
 - This application demonstrates:
 - Data preprocessing

@@ -21,15 +21,17 @@ Displays total athletes, nations, events, along with year-wise participation.
 
 view medals by country, by year, or across all Olympics.
 
-<img src="your_image_link_here" width="850">
+<img src="images/Screenshot (13).png" width="850">
+<img src="images/countrywise analysis.png" width="850">
+
 📈 Athlete Performance Insights
 
 Features demographic patterns, height vs. weight relationship, gender participation, and top athletes.
 
-<img src="your_image_link_here" width="850">
+<img src="Olympics-analysis/images/Men vs Women Particepation Over The Year.png" width="850">
 🎯 Project Objective
 
-To uncover patterns and insights in Olympics history and b<img src="your_image_link_here " width="850">
+To uncover patterns and insights in Olympics history and b<img src="Olympics-analysis/images/overall.png" width="850">
 
 ### 🥇 Medal Tally Analysis
 

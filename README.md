@@ -45,13 +45,13 @@ To uncover patterns and insights in Olympics history and b<img src="images/no.of
 - Find most successful athletes in each sport
 - Study how nations participated across 120 years
 
-#### | Tool                     | Purpose                     |
-     | ------------------------ | --------------------------- |
-     | **Python**               | Data cleaning & analysis    |
-     | **Pandas / NumPy**       | Data manipulation           |
-     | **Matplotlib / Seaborn** | Visualizations              |
-     | **Streamlit**            | Interactive web application |
-     | **Plotly**               | Dynamic charts              |
+| Tool                     | Purpose                     |
+| ------------------------ | --------------------------- |
+| **Python**               | Data cleaning & analysis    |
+| **Pandas / NumPy**       | Data manipulation           |
+| **Matplotlib / Seaborn** | Visualizations              |
+| **Streamlit**            | Interactive web application |
+| **Plotly**               | Dynamic charts              |
 
 
 ### 📂 Dataset
@@ -66,13 +66,13 @@ Contains athlete info, results, medals, sports, countries, and year-wise data.
 Understand participation and medal growth.
 
 ✔ Sport Evolution
-Which sports gained/lost popularity over time.
+- Which sports gained/lost popularity over time.
 ✔ Heatmaps
-Events × Year × Sport relations.
+- Events × Year × Sport relations.
 ✔ Gender Trends
-How male and female participation changed over decades.
+- How male and female participation changed over decades.
 ✔ Top Athletes
-Most successful players in each sport.
+- Most successful players in each sport.
 
 ### 📂  Project Structure
 

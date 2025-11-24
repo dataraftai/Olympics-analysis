@@ -1,21 +1,21 @@
 # Olympics-analysis
 
-Introduction
+## Introduction
 
-🏅 Olympics Data Analysis (1896–2016)
+## 🏅 Olympics Data Analysis (1896–2016)
 
 A complete end-to-end analysis of 120 years of Olympic history covering athletes, nations, medals, events, trends, and performance patterns.
 This project explores how the Olympics evolved from 1896 to 2016 using interactive visualizations and statistical insights.
 
 
-📊 Demo
+## 📊 Demo
 
 Add your deployed link here (Render/Streamlit Cloud):
 👉 Live Demo
 
 
-📸 Project Preview
-📊 Home Dashboard
+## 📸  Project Preview
+## 📊  Home Dashboard
 
 Displays total athletes, nations, events, along with year-wise participation.
 
@@ -27,10 +27,10 @@ iew medals by country, by year, or across all Olympics.
 Features demographic patterns, height vs. weight relationship, gender participation, and top athletes.
 
 <img src="your_image_link_here" width="850">
-🎯 Project Objective
+### 🎯 Project Objective
 
 To uncover patterns and insights in Olympics history and b<img src="your_image_link_here " width="850">
-🥇 Medal Tally Analysis
+### 🥇 Medal Tally Analysis
 
 Vuild an interactive app where users can:
 
@@ -53,13 +53,13 @@ Study how nations participated across 120 years
 | **Plotly**               | Dynamic charts              |
 
 
-📂 Dataset
+## 📂 Dataset
 
 Source: Kaggle (120 Years of Olympic History: Athletes and Results)
 
 Contains athlete info, results, medals, sports, countries, and year-wise data.
 
-🔍 Analysis Highlights
+## 🔍 Analysis Highlights
 ✔ Year-wise & Country-wise Trends
 
 Understand participation and medal growth.
@@ -80,7 +80,7 @@ How male and female participation changed over decades.
 
 Most successful players in each sport.
 
-📂 Project Structure
+## 📂  Project Structure
 
 .
 ├── app.py
@@ -100,16 +100,16 @@ Most successful players in each sport.
     └── more screenshots...
 
 
-🎯 Purpose of This Project
+## 🎯 Purpose of This Project
 
-This application demonstrates:
+- This application demonstrates:
 
-Data preprocessing
+- Data preprocessing
 
-Exploratory data analysis
+- Exploratory data analysis
 
-Visualization skills
+- Visualization skills
 
-Dashboard development
+- Dashboard development
 
-Python + Streamlit project building
+- Python + Streamlit project building
